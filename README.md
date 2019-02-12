@@ -1,5 +1,5 @@
 # hyperledger_fabric_sandbox
-Sandbox for experiments and code samples pertaining to all things HyperLedger Fabric
+Sandbox for experiments and code samples pertaining to all things HyperLedger Fabric.
 
 ## Environment setup prerequisties
 - install homebrew and check version using `brew -v`
